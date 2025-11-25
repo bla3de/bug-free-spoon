@@ -245,7 +245,7 @@ function Library:CreateUI(title, description)
     ToggleButton.Position = UDim2.new(0.14, 0, 0.1, 0)
     ToggleButton.BackgroundColor3 = Colors.Primary
     ToggleButton.BackgroundTransparency = 0.7
-    ToggleButton.image = "👀" -- Изменено на эмодзи глаз
+    ToggleButton.Text = "👀" -- Изменено на эмодзи глаз
     ToggleButton.TextSize = 20
     ToggleButton.Font = Enum.Font.GothamBold
     ToggleButton.TextColor3 = Colors.Text
