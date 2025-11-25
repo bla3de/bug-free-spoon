@@ -15,13 +15,13 @@ local UserInputService = game:GetService("UserInputService")
 
 -- Consistent Color Palette (Blue Theme)
 local Colors = {
-    Primary = Color3.fromRGB(255, 255, 255),
-    LightPrimary = Color3.fromRGB(220, 220, 220),
-    DarkPrimary = Color3.fromRGB(90, 90, 90),
-    Background = Color3.fromRGB(20, 20, 20),
+    Primary = Color3.fromRGB(0, 0, 0),
+    LightPrimary = Color3.fromRGB(0, 0, 0),
+    DarkPrimary = Color3.fromRGB(255, 255, 255),
+    Background = Color3.fromRGB(0, 0, 0),
     Text = Color3.fromRGB(245, 245, 245),
-    Accent = Color3.fromRGB(180, 180, 180),
-    Success = Color3.fromRGB(200, 200, 200),
+    Accent = Color3.fromRGB(255, 255, 255),
+    Success = Color3.fromRGB(255, 0, 0),
     Danger = Color3.fromRGB(255, 255, 255),
 }
 
